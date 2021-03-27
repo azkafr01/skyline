@@ -17,14 +17,14 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/azkafr01/skyline
-> cd akyline
+> cd skyline
 > bash install.sh
 > node index.js
 ```
 
 
 # FITUR
-
+</s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </ s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>      </s>     </s>      </s>      </s> ak     <cakrawal/s> orang </s>
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
 |       ✅       |    PANTUN                         |
