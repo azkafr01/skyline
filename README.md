@@ -1,4 +1,4 @@
-## skylinw
+## skyline
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/azkafr01/skylinwskyline
-> cakrawala cd
+> git clone https://github.com/azkafr01/skyline
+> cd akyline
 > bash install.sh
 > node index.js
 ```
